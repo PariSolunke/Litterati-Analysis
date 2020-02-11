@@ -119,10 +119,7 @@ ui <- dashboardPage(
                   
                    
                    
-                   #   radioButtons("type", "View type:",
-                   #                c("Plot" = "pt",
-                   #                 "Table" = "tb"
-                   #                )),  
+                 
                    
                    )        
                    

@@ -1,0 +1,9 @@
+Data: Local data from Litterati
+
+Data Source: https://www.evl.uic.edu/aej/424/litteratichallenge-65.csv
+
+
+How to get started->
+A) Install and open R studio
+B) Via the install.packages() console command install the following packages -> 1)dplyr, 2)shiny, 3)shinydashboard, 4)ggplot2,5) leaflet, 6)DT, 7)Lubridate
+C) Voila you are good to go!
